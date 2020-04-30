@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55921506-a0d6-464e-b57b-06653655beaf" name="Default Changelist" comment="" />
+    <list default="true" id="55921506-a0d6-464e-b57b-06653655beaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NewsApp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
