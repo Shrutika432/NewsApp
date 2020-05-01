@@ -18,9 +18,6 @@ public class MainActivity extends AppCompatActivity {
                 new MyListData("Info", android.R.drawable.ic_dialog_info),
                 new MyListData("Delete", android.R.drawable.ic_delete),
                 new MyListData("Dialer", android.R.drawable.ic_dialog_dialer),
-                new MyListData("Alert", android.R.drawable.ic_dialog_alert),
-                new MyListData("Map", android.R.drawable.ic_dialog_map),
-
         };
 
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);

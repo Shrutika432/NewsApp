@@ -41,6 +41,9 @@ public class MyListAdapter extends RecyclerView.Adapter<MyListAdapter.ViewHolder
             @Override
             public void onClick(View view) {
                 Toast.makeText(view.getContext(),"click on item: "+myListData.getDescription(),Toast.LENGTH_LONG).show();
+                Intent intent=new Intent(view.getContext(),second.class);
+                startActivity(intent);
+
 
             }
         });
